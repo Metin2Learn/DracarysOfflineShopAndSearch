@@ -1,0 +1,4 @@
+
+# Add
+
+#define ENABLE_OFFLINESHOP_SYSTEM

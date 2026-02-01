@@ -1,0 +1,15 @@
+30001	privateshop_1
+30002	privateshop_2
+30003	privateshop_3
+30004	privateshop_4
+30005	privateshop_5
+30006	privateshop_6
+30007	privateshop_7
+30008	terabithia_shop_1
+30009	terabithia_shop_2
+30010	terabithia_shop_3
+30011	terabithia_shop_5
+30012	terabithia_shop_6
+30013	terabithia_shop_7
+30014	terabithia_shop_8
+30015	terabithia_shop_8

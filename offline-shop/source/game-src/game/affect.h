@@ -1,0 +1,12 @@
+
+# Search
+
+AFFECT_QUEST_START_IDX = 1000
+
+# Add before
+
+#ifdef ENABLE_OFFLINESHOP_SYSTEM
+	AFFECT_DECORATION = 703,
+#endif
+
+# Done

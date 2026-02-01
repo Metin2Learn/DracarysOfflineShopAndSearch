@@ -1,0 +1,11 @@
+
+# Search
+
+	MAX_HOST_LENGTH			= 15,
+
+# Add Before
+
+#ifdef ENABLE_OFFLINESHOP_SYSTEM
+	OFFLINE_SHOP_HOST_ITEM_MAX_NUM = 80,
+	SHOP_SIGN_MAX_LEN=45,
+#endif

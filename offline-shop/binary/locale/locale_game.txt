@@ -1,0 +1,23 @@
+OK	Tamam
+CANCEL	Vazgeç
+OFFLINE_SHOP_TITLE	Çevrimdışı Pazar
+OFFLINESHOP_ACCEPT	Tamam
+OFFLINESHOP_CANCEL	Vazgeç
+OFFLINESHOP_CLOSE	Kapat
+OFFLINESHOP_LOGS	Logs
+OFFLINESHOP_LOG_TEXT_COUNT	|cffe5d500%s|r tarihinde |cffe5d500x%d%s[%s] Yang|r itemi |cffe5d500%s|r tarafından satın alınmıştır.
+OFFLINESHOP_LOG_TEXT	|cffe5d500%s|r tarihinde |cffe5d500%s[%s] Yang|r itemi |cffe5d500%s|r tarafından satın alınmıştır.
+DO_YOU_WANT_GET_BACK_ITEM	Bu %s itemi pazardan kaldırmak istiyor musun?
+DO_YOU_WANT_OPEN_SLOT	Bu slotu açmak istiyor musun?
+OFFLINE_SHOP_ITEM_SOLD	[Satıldı]
+OFFLINE_SHOP_ITEM_SOLD2	[Alan Oyuncu: %s]
+NEW_AFFECT_DECORATION	Kaşmir Paketi	SNA
+OFFLINESHOP_SEEN	Gerçek zamanlı bakanlar: %d Hepsi: %d
+OFFLINESHOP_INPUT_PRICE_DIALOG_TITLE	Yang Fiyatı
+OFFLINESHOP_CANNOT_SELL_ITEM	Bu itemi satamazsın!
+OFFLINESHOP_NEW_SHOPNAME	Yeni pazar başlığını yazabilirsin...
+OFFLINESHOP_CLOSE_DIALOG	Çevrimdışı pazarını kapatmak istiyor musun?
+OFFLINESHOP_BUY_DIALOG	Bunu satın almak istiyor musun?
+OFFLINESHOP_DECORATION_NOT	Kaşmir paketiniz bulunmamakta!
+OFFLINESHOP_ADD_TIME_DIALOG	%s karşılığında pazar saatinize 12 saat eklemek ister misin?
+OFFLINESHOP_REMOVE_LOGS	Log kayıtlarını silmek istiyor musun?

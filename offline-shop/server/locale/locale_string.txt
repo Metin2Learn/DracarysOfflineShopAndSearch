@@ -1,0 +1,53 @@
+"CLOSE_OTHER_WINDOWS";
+"Başka bir pencere açık iken bu işlemi yapamazsın!";
+
+"OFFLINE_SHOP_OLD_TIME";
+"Bu işlemi %d saniye sonra yapabilirsin.";
+
+"OFFLINE_SHOP_BUG_WITH_TIMED_EVENT";
+"Çıkış isteği yaparken bu işlemi yapamazsın! Çıkış isteğin iptal oldu.";
+
+"OFFLINE_SHOP_CREATE_YANG";
+"Çevrimdışı pazar kurmak için %d yanga ihtiyacın var.";
+
+"OFFLINE_SHOP_DECORATION_DAY";
+"%d gün pazar dekorasyon karakterine işlendi.";
+
+"OFFLINE_SHOP_DECORATION";
+"Kaşmir paket efektiniz olmadan bu işlemi yapamazsın!";
+
+"OFFLINE_SHOP_ALREADY_HAVE_DECORATION";
+"Kaşmir paket efektiniz zaten mevcut!";
+
+"OFFLINE_SHOP_ALREADY_HAVE_SHOP";
+"Zaten bir pazarınız bulunmakta?";
+
+"OFFLINE_SHOP_CANT_CREATE_IN_DUNGEON";
+"Zindan içerisinde pazar kuramazsın!";
+
+"OFFLINE_SHOP_CANT_ADD_ITEM";
+"Bu itemi ekleyemezsin! %s";
+
+"OFFLINE_SHOP_CANT_CREATE_PLACE";
+"Diğer pazarların dibinde pazar kuramazsın!";
+
+"OFFLINE_SHOP_CANT_FIND";
+"Herhangi bir pazarın görünmemekte! Bir game master ile iletişime geçin.";
+
+"OFFLINE_SHOP_CANT_SLOT_OPEN";
+"Çevrimdışı pazar slot açma iteminiz bulunmamakta!";
+
+"OFFLINE_SHOP_CANT_GET_MONEY";
+"Çevrimdışı pazarınızdan nakit çekemezsiniz. Paranız maksimum seviyede!";
+
+"OFFLINE_SHOP_CANT_CLOSE_SHOP";
+"Çevrimdışı pazarınızda item varken kapatamazsınız. İtemlerinizi geri alıp kapatabilirsiniz.";
+
+
+
+
+
+
+
+
+
