@@ -1,0 +1,6 @@
+
+# Add
+
+#ifdef ENABLE_OFFLINESHOP_SYSTEM
+	#define ENABLE_SHOP_SEARCH_SYSTEM
+#endif
