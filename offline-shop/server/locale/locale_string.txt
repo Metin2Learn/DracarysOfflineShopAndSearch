@@ -1,47 +1,47 @@
 "CLOSE_OTHER_WINDOWS";
-"Başka bir pencere açık iken bu işlemi yapamazsın!";
+"当有其他窗口打开时，你无法执行此操作！";
 
 "OFFLINE_SHOP_OLD_TIME";
-"Bu işlemi %d saniye sonra yapabilirsin.";
+"你可以在 %d 秒后再次执行此操作。";
 
 "OFFLINE_SHOP_BUG_WITH_TIMED_EVENT";
-"Çıkış isteği yaparken bu işlemi yapamazsın! Çıkış isteğin iptal oldu.";
+"在发送退出请求时无法执行此操作！你的退出请求已被取消。";
 
 "OFFLINE_SHOP_CREATE_YANG";
-"Çevrimdışı pazar kurmak için %d yanga ihtiyacın var.";
+"建立离线商店需要 %d 金币。";
 
 "OFFLINE_SHOP_DECORATION_DAY";
-"%d gün pazar dekorasyon karakterine işlendi.";
+"商店装饰已为角色增加 %d 天。";
 
 "OFFLINE_SHOP_DECORATION";
-"Kaşmir paket efektiniz olmadan bu işlemi yapamazsın!";
+"没有商店装饰礼包效果时无法执行此操作！";
 
 "OFFLINE_SHOP_ALREADY_HAVE_DECORATION";
-"Kaşmir paket efektiniz zaten mevcut!";
+"你已经拥有商店装饰礼包效果！";
 
 "OFFLINE_SHOP_ALREADY_HAVE_SHOP";
-"Zaten bir pazarınız bulunmakta?";
+"你已经拥有一个商店！";
 
 "OFFLINE_SHOP_CANT_CREATE_IN_DUNGEON";
-"Zindan içerisinde pazar kuramazsın!";
+"在地下城中无法建立商店！";
 
 "OFFLINE_SHOP_CANT_ADD_ITEM";
-"Bu itemi ekleyemezsin! %s";
+"无法添加该物品！%s";
 
 "OFFLINE_SHOP_CANT_CREATE_PLACE";
-"Diğer pazarların dibinde pazar kuramazsın!";
+"不能在其他商店旁边建立商店！";
 
 "OFFLINE_SHOP_CANT_FIND";
-"Herhangi bir pazarın görünmemekte! Bir game master ile iletişime geçin.";
+"你的商店没有显示！请联系游戏管理员。";
 
 "OFFLINE_SHOP_CANT_SLOT_OPEN";
-"Çevrimdışı pazar slot açma iteminiz bulunmamakta!";
+"你没有离线商店槽位开启道具！拓展银钥匙";
 
 "OFFLINE_SHOP_CANT_GET_MONEY";
-"Çevrimdışı pazarınızdan nakit çekemezsiniz. Paranız maksimum seviyede!";
+"无法从离线商店提取金币，你的金币已达到上限！";
 
 "OFFLINE_SHOP_CANT_CLOSE_SHOP";
-"Çevrimdışı pazarınızda item varken kapatamazsınız. İtemlerinizi geri alıp kapatabilirsiniz.";
+"离线商店中仍有物品时无法关闭。请先取回物品后再关闭。";
 
 
 
