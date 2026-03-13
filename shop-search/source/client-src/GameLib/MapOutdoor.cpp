@@ -32,7 +32,7 @@ void CMapOutdoor::SpecialShopPosEffect_Create(DWORD dwID, float x, float y, floa
 		D3DXVECTOR3(0.0f, 0.0f, 0.0f));
 
 	m_iLastShopPos = dwEffectID;
-	m_kMap_dwID_iEffectID.insert(make_pair(dwID, dwEffectID));
+	m_kMap_dwID_iEffectID.insert(std::make_pair(dwID, dwEffectID));
 }
 
 void CMapOutdoor::SpecialShopPosEffect_Delete()
